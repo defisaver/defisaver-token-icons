@@ -203,6 +203,7 @@ import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
 import _stETH from '../icons/stETH.svg';
+import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
@@ -413,6 +414,7 @@ export default {
   'imUSD': _imUSD,
   'mUSD': _mUSD,
   'stETH': _stETH,
+  'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,

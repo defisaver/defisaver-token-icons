@@ -113,6 +113,7 @@ import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
 import _USDC from '../icons/USDC.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDT from '../icons/USDT.svg';
+import _UST from '../icons/UST.svg';
 import _WBTC from '../icons/WBTC.svg';
 import _WETH from '../icons/WETH.svg';
 import _YAM from '../icons/YAM.svg';
@@ -324,6 +325,7 @@ export default {
   'USDC': _USDC,
   'USDP': _USDP,
   'USDT': _USDT,
+  'UST': _UST,
   'WBTC': _WBTC,
   'WETH': _WETH,
   'YAM': _YAM,

@@ -148,6 +148,7 @@ import _cBAT from '../icons/cBAT.svg';
 import _cCOMP from '../icons/cCOMP.svg';
 import _cDAI from '../icons/cDAI.svg';
 import _cETH from '../icons/cETH.svg';
+import _cFEI from '../icons/cFEI.svg';
 import _cLINK from '../icons/cLINK.svg';
 import _cMKR from '../icons/cMKR.svg';
 import _cREP from '../icons/cREP.svg';
@@ -360,6 +361,7 @@ export default {
   'cCOMP': _cCOMP,
   'cDAI': _cDAI,
   'cETH': _cETH,
+  'cFEI': _cFEI,
   'cLINK': _cLINK,
   'cMKR': _cMKR,
   'cREP': _cREP,

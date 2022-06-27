@@ -204,6 +204,7 @@ import _crvYBUSD from '../icons/crvYBUSD.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
+import _rETH from '../icons/rETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
@@ -417,6 +418,7 @@ export default {
   'iDAI': _iDAI,
   'imUSD': _imUSD,
   'mUSD': _mUSD,
+  'rETH': _rETH,
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,

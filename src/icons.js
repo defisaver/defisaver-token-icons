@@ -66,6 +66,7 @@ import _MKR from '../icons/MKR.svg';
 import _MTA from '../icons/MTA.svg';
 import _OHM from '../icons/OHM.svg';
 import _OMG from '../icons/OMG.svg';
+import _OP from '../icons/OP.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
@@ -280,6 +281,7 @@ export default {
   'MTA': _MTA,
   'OHM': _OHM,
   'OMG': _OMG,
+  'OP': _OP,
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,

@@ -144,6 +144,7 @@ import _aWBTC from '../icons/aWBTC.svg';
 import _aWETH from '../icons/aWETH.svg';
 import _aYFI from '../icons/aYFI.svg';
 import _aZRX from '../icons/aZRX.svg';
+import _bLUSD from '../icons/bLUSD.svg';
 import _cAAVE from '../icons/cAAVE.svg';
 import _cBAT from '../icons/cBAT.svg';
 import _cCOMP from '../icons/cCOMP.svg';
@@ -359,6 +360,7 @@ export default {
   'aWETH': _aWETH,
   'aYFI': _aYFI,
   'aZRX': _aZRX,
+  'bLUSD': _bLUSD,
   'cAAVE': _cAAVE,
   'cBAT': _cBAT,
   'cCOMP': _cCOMP,

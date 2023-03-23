@@ -63,6 +63,7 @@ import _MATIC from '../icons/MATIC.svg';
 import _MIM from '../icons/MIM.svg';
 import _MIR from '../icons/MIR.svg';
 import _MKR from '../icons/MKR.svg';
+import _MORPHO from '../icons/MORPHO.svg';
 import _MTA from '../icons/MTA.svg';
 import _OHM from '../icons/OHM.svg';
 import _OMG from '../icons/OMG.svg';
@@ -164,6 +165,7 @@ import _cWBTC from '../icons/cWBTC.svg';
 import _cWBTC_Legacy from '../icons/cWBTC_Legacy.svg';
 import _cYFI from '../icons/cYFI.svg';
 import _cZRX from '../icons/cZRX.svg';
+import _cbETH from '../icons/cbETH.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
 import _crvAAVE from '../icons/crvAAVE.svg';
 import _crvAETHc from '../icons/crvAETHc.svg';
@@ -279,6 +281,7 @@ export default {
   'MIM': _MIM,
   'MIR': _MIR,
   'MKR': _MKR,
+  'MORPHO': _MORPHO,
   'MTA': _MTA,
   'OHM': _OHM,
   'OMG': _OMG,
@@ -380,6 +383,7 @@ export default {
   'cWBTC Legacy': _cWBTC_Legacy,
   'cYFI': _cYFI,
   'cZRX': _cZRX,
+  'cbETH': _cbETH,
   'crv3crypto': _crv3crypto,
   'crvAAVE': _crvAAVE,
   'crvAETHc': _crvAETHc,

@@ -8,6 +8,7 @@ import _ALETH from '../icons/ALETH.svg';
 import _ALUSD from '../icons/ALUSD.svg';
 import _AMP from '../icons/AMP.svg';
 import _AMPL from '../icons/AMPL.svg';
+import _ARB from '../icons/ARB.svg';
 import _AUDIO from '../icons/AUDIO.svg';
 import _AXS from '../icons/AXS.svg';
 import _BADGER from '../icons/BADGER.svg';
@@ -226,6 +227,7 @@ export default {
   'ALUSD': _ALUSD,
   'AMP': _AMP,
   'AMPL': _AMPL,
+  'ARB': _ARB,
   'AUDIO': _AUDIO,
   'AXS': _AXS,
   'BADGER': _BADGER,

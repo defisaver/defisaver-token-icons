@@ -42,6 +42,7 @@ import _FRAX from '../icons/FRAX.svg';
 import _FTM from '../icons/FTM.svg';
 import _FXS from '../icons/FXS.svg';
 import _GEL from '../icons/GEL.svg';
+import _GMX from '../icons/GMX.svg';
 import _GNO from '../icons/GNO.svg';
 import _GRT from '../icons/GRT.svg';
 import _GTC from '../icons/GTC.svg';
@@ -66,9 +67,12 @@ import _MIR from '../icons/MIR.svg';
 import _MKR from '../icons/MKR.svg';
 import _MORPHO from '../icons/MORPHO.svg';
 import _MTA from '../icons/MTA.svg';
+import _OETH from '../icons/OETH.svg';
+import _OGV from '../icons/OGV.svg';
 import _OHM from '../icons/OHM.svg';
 import _OMG from '../icons/OMG.svg';
 import _OP from '../icons/OP.svg';
+import _OUSD from '../icons/OUSD.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
@@ -213,6 +217,8 @@ import _rETH from '../icons/rETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
+import _wOETH from '../icons/wOETH.svg';
+import _wOUSD from '../icons/wOUSD.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
@@ -261,6 +267,7 @@ export default {
   'FTM': _FTM,
   'FXS': _FXS,
   'GEL': _GEL,
+  'GMX': _GMX,
   'GNO': _GNO,
   'GRT': _GRT,
   'GTC': _GTC,
@@ -285,9 +292,12 @@ export default {
   'MKR': _MKR,
   'MORPHO': _MORPHO,
   'MTA': _MTA,
+  'OETH': _OETH,
+  'OGV': _OGV,
   'OHM': _OHM,
   'OMG': _OMG,
   'OP': _OP,
+  'OUSD': _OUSD,
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
@@ -432,6 +442,8 @@ export default {
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
+  'wOETH': _wOETH,
+  'wOUSD': _wOUSD,
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,

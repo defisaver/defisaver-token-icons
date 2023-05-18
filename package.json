@@ -1,6 +1,6 @@
 {
   "name": "@defisaver/token-icons",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "description": "",
   "module": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@defisaver/tokens": "^1.4.9",
+    "@defisaver/tokens": "^1.4.38",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }

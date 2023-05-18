@@ -60,6 +60,7 @@ import _LINK from '../icons/LINK.svg';
 import _LQTY from '../icons/LQTY.svg';
 import _LRC from '../icons/LRC.svg';
 import _LUSD from '../icons/LUSD.svg';
+import _MAI from '../icons/MAI.svg';
 import _MANA from '../icons/MANA.svg';
 import _MATIC from '../icons/MATIC.svg';
 import _MIM from '../icons/MIM.svg';
@@ -285,6 +286,7 @@ export default {
   'LQTY': _LQTY,
   'LRC': _LRC,
   'LUSD': _LUSD,
+  'MAI': _MAI,
   'MANA': _MANA,
   'MATIC': _MATIC,
   'MIM': _MIM,

@@ -204,6 +204,7 @@ import _crvSUSD from '../icons/crvSUSD.svg';
 import _crvTBTC from '../icons/crvTBTC.svg';
 import _crvTUSD from '../icons/crvTUSD.svg';
 import _crvTricrypto from '../icons/crvTricrypto.svg';
+import _crvUSD from '../icons/crvUSD.svg';
 import _crvUSDK from '../icons/crvUSDK.svg';
 import _crvUSDN from '../icons/crvUSDN.svg';
 import _crvUSDP from '../icons/crvUSDP.svg';
@@ -214,6 +215,7 @@ import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
 import _rETH from '../icons/rETH.svg';
+import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
@@ -429,6 +431,7 @@ export default {
   'crvTBTC': _crvTBTC,
   'crvTUSD': _crvTUSD,
   'crvTricrypto': _crvTricrypto,
+  'crvUSD': _crvUSD,
   'crvUSDK': _crvUSDK,
   'crvUSDN': _crvUSDN,
   'crvUSDP': _crvUSDP,
@@ -439,6 +442,7 @@ export default {
   'imUSD': _imUSD,
   'mUSD': _mUSD,
   'rETH': _rETH,
+  'sfrxETH': _sfrxETH,
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,

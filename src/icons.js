@@ -60,6 +60,7 @@ import _LINK from '../icons/LINK.svg';
 import _LQTY from '../icons/LQTY.svg';
 import _LRC from '../icons/LRC.svg';
 import _LUSD from '../icons/LUSD.svg';
+import _MAI from '../icons/MAI.svg';
 import _MANA from '../icons/MANA.svg';
 import _MATIC from '../icons/MATIC.svg';
 import _MIM from '../icons/MIM.svg';
@@ -171,6 +172,7 @@ import _cWBTC_Legacy from '../icons/cWBTC_Legacy.svg';
 import _cYFI from '../icons/cYFI.svg';
 import _cZRX from '../icons/cZRX.svg';
 import _cbETH from '../icons/cbETH.svg';
+import _cbeCRV from '../icons/cbeCRV.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
 import _crvAAVE from '../icons/crvAAVE.svg';
 import _crvAETHc from '../icons/crvAETHc.svg';
@@ -216,6 +218,7 @@ import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
 import _rETH from '../icons/rETH.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
+import _reCRV from '../icons/reCRV.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
@@ -287,6 +290,7 @@ export default {
   'LQTY': _LQTY,
   'LRC': _LRC,
   'LUSD': _LUSD,
+  'MAI': _MAI,
   'MANA': _MANA,
   'MATIC': _MATIC,
   'MIM': _MIM,
@@ -398,6 +402,7 @@ export default {
   'cYFI': _cYFI,
   'cZRX': _cZRX,
   'cbETH': _cbETH,
+  'cbeCRV': _cbeCRV,
   'crv3crypto': _crv3crypto,
   'crvAAVE': _crvAAVE,
   'crvAETHc': _crvAETHc,
@@ -443,6 +448,7 @@ export default {
   'mUSD': _mUSD,
   'rETH': _rETH,
   'sfrxETH': _sfrxETH,
+  'reCRV': _reCRV,
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,

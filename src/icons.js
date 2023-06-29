@@ -119,6 +119,7 @@ import _UNIV2USDCETH from '../icons/UNIV2USDCETH.svg';
 import _UNIV2WBTCDAI from '../icons/UNIV2WBTCDAI.svg';
 import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
 import _USDC from '../icons/USDC.svg';
+import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDT from '../icons/USDT.svg';
 import _UST from '../icons/UST.svg';
@@ -350,6 +351,7 @@ export default {
   'UNIV2WBTCDAI': _UNIV2WBTCDAI,
   'UNIV2WBTCETH': _UNIV2WBTCETH,
   'USDC': _USDC,
+  'USDC.e': _USDCe,
   'USDP': _USDP,
   'USDT': _USDT,
   'UST': _UST,

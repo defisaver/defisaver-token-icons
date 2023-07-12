@@ -120,6 +120,7 @@ import _UNIV2USDCETH from '../icons/UNIV2USDCETH.svg';
 import _UNIV2WBTCDAI from '../icons/UNIV2WBTCDAI.svg';
 import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
 import _USDC from '../icons/USDC.svg';
+import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDT from '../icons/USDT.svg';
 import _UST from '../icons/UST.svg';
@@ -207,6 +208,7 @@ import _crvSUSD from '../icons/crvSUSD.svg';
 import _crvTBTC from '../icons/crvTBTC.svg';
 import _crvTUSD from '../icons/crvTUSD.svg';
 import _crvTricrypto from '../icons/crvTricrypto.svg';
+import _crvUSD from '../icons/crvUSD.svg';
 import _crvUSDK from '../icons/crvUSDK.svg';
 import _crvUSDN from '../icons/crvUSDN.svg';
 import _crvUSDP from '../icons/crvUSDP.svg';
@@ -218,6 +220,8 @@ import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
 import _rETH from '../icons/rETH.svg';
 import _reCRV from '../icons/reCRV.svg';
+import _sDAI from '../icons/sDAI.svg';
+import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
@@ -349,6 +353,7 @@ export default {
   'UNIV2WBTCDAI': _UNIV2WBTCDAI,
   'UNIV2WBTCETH': _UNIV2WBTCETH,
   'USDC': _USDC,
+  'USDC.e': _USDCe,
   'USDP': _USDP,
   'USDT': _USDT,
   'UST': _UST,
@@ -436,6 +441,7 @@ export default {
   'crvTBTC': _crvTBTC,
   'crvTUSD': _crvTUSD,
   'crvTricrypto': _crvTricrypto,
+  'crvUSD': _crvUSD,
   'crvUSDK': _crvUSDK,
   'crvUSDN': _crvUSDN,
   'crvUSDP': _crvUSDP,
@@ -447,6 +453,8 @@ export default {
   'mUSD': _mUSD,
   'rETH': _rETH,
   'reCRV': _reCRV,
+  'sDAI': _sDAI,
+  'sfrxETH': _sfrxETH,
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,

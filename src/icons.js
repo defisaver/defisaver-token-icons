@@ -42,6 +42,7 @@ import _FRAX from '../icons/FRAX.svg';
 import _FTM from '../icons/FTM.svg';
 import _FXS from '../icons/FXS.svg';
 import _GEL from '../icons/GEL.svg';
+import _GHO from '../icons/GHO.svg';
 import _GMX from '../icons/GMX.svg';
 import _GNO from '../icons/GNO.svg';
 import _GRT from '../icons/GRT.svg';
@@ -270,6 +271,7 @@ export default {
   'FTM': _FTM,
   'FXS': _FXS,
   'GEL': _GEL,
+  'GHO': _GHO,
   'GMX': _GMX,
   'GNO': _GNO,
   'GRT': _GRT,

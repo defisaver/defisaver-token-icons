@@ -123,6 +123,7 @@ import _USDC from '../icons/USDC.svg';
 import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDT from '../icons/USDT.svg';
+import _USDbC from '../icons/USDbC.svg';
 import _UST from '../icons/UST.svg';
 import _WBTC from '../icons/WBTC.svg';
 import _WETH from '../icons/WETH.svg';
@@ -356,6 +357,7 @@ export default {
   'USDC.e': _USDCe,
   'USDP': _USDP,
   'USDT': _USDT,
+  'USDbC': _USDbC,
   'UST': _UST,
   'WBTC': _WBTC,
   'WETH': _WETH,

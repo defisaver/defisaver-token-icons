@@ -227,6 +227,7 @@ import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
+import _tBTC from '../icons/tBTC.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
 import _wstETH from '../icons/wstETH.svg';
@@ -462,6 +463,7 @@ export default {
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
+  'tBTC': _tBTC,
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
   'wstETH': _wstETH,

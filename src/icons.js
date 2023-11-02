@@ -97,6 +97,7 @@ import _SNX from '../icons/SNX.svg';
 import _SOHM from '../icons/SOHM.svg';
 import _SPANK from '../icons/SPANK.svg';
 import _SPELL from '../icons/SPELL.svg';
+import _STG from '../icons/STG.svg';
 import _SUSD from '../icons/SUSD.svg';
 import _SUSHI from '../icons/SUSHI.svg';
 import _TCAP from '../icons/TCAP.svg';
@@ -330,6 +331,7 @@ export default {
   'SOHM': _SOHM,
   'SPANK': _SPANK,
   'SPELL': _SPELL,
+  'STG': _STG,
   'SUSD': _SUSD,
   'SUSHI': _SUSHI,
   'TCAP': _TCAP,

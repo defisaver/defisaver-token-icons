@@ -217,6 +217,7 @@ import _crvUSDP from '../icons/crvUSDP.svg';
 import _crvUSDT from '../icons/crvUSDT.svg';
 import _crvUST from '../icons/crvUST.svg';
 import _crvYBUSD from '../icons/crvYBUSD.svg';
+import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
@@ -453,6 +454,7 @@ export default {
   'crvUSDT': _crvUSDT,
   'crvUST': _crvUST,
   'crvYBUSD': _crvYBUSD,
+  'frxETH': _frxETH,
   'iDAI': _iDAI,
   'imUSD': _imUSD,
   'mUSD': _mUSD,

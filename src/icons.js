@@ -78,6 +78,7 @@ import _OUSD from '../icons/OUSD.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
+import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
 import _REN from '../icons/REN.svg';
@@ -315,6 +316,7 @@ export default {
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
+  'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,
   'REN': _REN,

@@ -236,6 +236,8 @@ import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
+import _USDe from '../icons/USDe.svg';
+import _sUSDe from '../icons/sUSDe.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -317,6 +319,8 @@ export default {
   'PICKLE': _PICKLE,
   'POOL': _POOL,
   'PYUSD': _PYUSD,
+  'USDe': _USDe,
+  'sUSDe': _sUSDe,
   'RAI': _RAI,
   'RARI': _RARI,
   'REN': _REN,

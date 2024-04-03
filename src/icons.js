@@ -238,6 +238,7 @@ import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import _USDe from '../icons/USDe.svg';
 import _sUSDe from '../icons/sUSDe.svg';
+import _ENA from '../icons/ENA.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -477,7 +478,8 @@ export default {
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV
+  'yveCRV': _yveCRV,
+  'ENA': _ENA
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

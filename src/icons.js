@@ -29,6 +29,7 @@ import _DATA from '../icons/DATA.svg';
 import _DIGG from '../icons/DIGG.svg';
 import _DPI from '../icons/DPI.svg';
 import _DYDX from '../icons/DYDX.svg';
+import _ENA from '../icons/ENA.svg';
 import _ENJ from '../icons/ENJ.svg';
 import _ENS from '../icons/ENS.svg';
 import _ETH from '../icons/ETH.svg';
@@ -40,6 +41,7 @@ import _FLX from '../icons/FLX.svg';
 import _FOX from '../icons/FOX.svg';
 import _FRAX from '../icons/FRAX.svg';
 import _FTM from '../icons/FTM.svg';
+import _FXN from '../icons/FXN.svg';
 import _FXS from '../icons/FXS.svg';
 import _GEL from '../icons/GEL.svg';
 import _GHO from '../icons/GHO.svg';
@@ -126,6 +128,7 @@ import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDT from '../icons/USDT.svg';
 import _USDbC from '../icons/USDbC.svg';
+import _USDe from '../icons/USDe.svg';
 import _UST from '../icons/UST.svg';
 import _WBTC from '../icons/WBTC.svg';
 import _WETH from '../icons/WETH.svg';
@@ -225,6 +228,7 @@ import _mUSD from '../icons/mUSD.svg';
 import _rETH from '../icons/rETH.svg';
 import _reCRV from '../icons/reCRV.svg';
 import _sDAI from '../icons/sDAI.svg';
+import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
@@ -236,9 +240,6 @@ import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import _USDe from '../icons/USDe.svg';
-import _sUSDe from '../icons/sUSDe.svg';
-import _ENA from '../icons/ENA.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -270,6 +271,7 @@ export default {
   'DIGG': _DIGG,
   'DPI': _DPI,
   'DYDX': _DYDX,
+  'ENA': _ENA,
   'ENJ': _ENJ,
   'ENS': _ENS,
   'ETH': _ETH,
@@ -281,6 +283,7 @@ export default {
   'FOX': _FOX,
   'FRAX': _FRAX,
   'FTM': _FTM,
+  'FXN': _FXN,
   'FXS': _FXS,
   'GEL': _GEL,
   'GHO': _GHO,
@@ -320,8 +323,6 @@ export default {
   'PICKLE': _PICKLE,
   'POOL': _POOL,
   'PYUSD': _PYUSD,
-  'USDe': _USDe,
-  'sUSDe': _sUSDe,
   'RAI': _RAI,
   'RARI': _RARI,
   'REN': _REN,
@@ -369,6 +370,7 @@ export default {
   'USDP': _USDP,
   'USDT': _USDT,
   'USDbC': _USDbC,
+  'USDe': _USDe,
   'UST': _UST,
   'WBTC': _WBTC,
   'WETH': _WETH,
@@ -468,6 +470,7 @@ export default {
   'rETH': _rETH,
   'reCRV': _reCRV,
   'sDAI': _sDAI,
+  'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,
   'stETH': _stETH,
   'steCRV': _steCRV,
@@ -478,8 +481,7 @@ export default {
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV,
-  'ENA': _ENA
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

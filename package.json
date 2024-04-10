@@ -1,9 +1,10 @@
 {
   "name": "@defisaver/token-icons",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "",
   "module": "src/index.js",
   "scripts": {
+    "version-bump": "git commit -am \"Version bump to $(npm version patch --no-git-tag-version | cut -c 2-)\"",
     "generate": "node scripts/generateIconsIndex.js"
   },
   "keywords": [],

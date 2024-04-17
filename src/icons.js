@@ -236,6 +236,7 @@ import _stkAAVE from '../icons/stkAAVE.svg';
 import _tBTC from '../icons/tBTC.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
+import _weETH from '../icons/weETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
@@ -478,6 +479,7 @@ export default {
   'tBTC': _tBTC,
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
+  'weETH': _weETH,
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,

@@ -241,6 +241,9 @@ import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
+import _USDA from '../icons/USDA.svg';
+import _ezETH from '../icons/ezETH.svg';
+import _osETH from '../icons/osETH.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -483,7 +486,10 @@ export default {
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV
+  'yveCRV': _yveCRV,
+  'USDA': _USDA,
+  'ezETH': _ezETH,
+  'osETH': _osETH
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

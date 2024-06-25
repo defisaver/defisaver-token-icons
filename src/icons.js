@@ -34,6 +34,7 @@ import _ENJ from '../icons/ENJ.svg';
 import _ENS from '../icons/ENS.svg';
 import _ETH from '../icons/ETH.svg';
 import _ETH2x_FLI from '../icons/ETH2x_FLI.svg';
+import _ETHx from '../icons/ETHx.svg';
 import _EURS from '../icons/EURS.svg';
 import _FARM from '../icons/FARM.svg';
 import _FEI from '../icons/FEI.svg';
@@ -280,6 +281,7 @@ export default {
   'ENS': _ENS,
   'ETH': _ETH,
   'ETH2x-FLI': _ETH2x_FLI,
+  'ETHx': _ETHx,
   'EURS': _EURS,
   'FARM': _FARM,
   'FEI': _FEI,

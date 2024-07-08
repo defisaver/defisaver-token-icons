@@ -245,6 +245,8 @@ import _yveCRV from '../icons/yveCRV.svg';
 import _USDA from '../icons/USDA.svg';
 import _ezETH from '../icons/ezETH.svg';
 import _osETH from '../icons/osETH.svg';
+import _pufETH from '../icons/pufETH.svg';
+import _rsETH from '../icons/rsETH.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -491,7 +493,9 @@ export default {
   'yveCRV': _yveCRV,
   'USDA': _USDA,
   'ezETH': _ezETH,
-  'osETH': _osETH
+  'osETH': _osETH,
+  'pufETH': _pufETH,
+  'rsETH': _rsETH,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

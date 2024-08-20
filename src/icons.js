@@ -124,6 +124,7 @@ import _UNIV2UNIETH from '../icons/UNIV2UNIETH.svg';
 import _UNIV2USDCETH from '../icons/UNIV2USDCETH.svg';
 import _UNIV2WBTCDAI from '../icons/UNIV2WBTCDAI.svg';
 import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
+import _USDA from '../icons/USDA.svg';
 import _USDC from '../icons/USDC.svg';
 import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
@@ -222,12 +223,16 @@ import _crvUSDP from '../icons/crvUSDP.svg';
 import _crvUSDT from '../icons/crvUSDT.svg';
 import _crvUST from '../icons/crvUST.svg';
 import _crvYBUSD from '../icons/crvYBUSD.svg';
+import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
+import _osETH from '../icons/osETH.svg';
+import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
 import _reCRV from '../icons/reCRV.svg';
+import _rsETH from '../icons/rsETH.svg';
 import _sDAI from '../icons/sDAI.svg';
 import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
@@ -242,11 +247,6 @@ import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import _USDA from '../icons/USDA.svg';
-import _ezETH from '../icons/ezETH.svg';
-import _osETH from '../icons/osETH.svg';
-import _pufETH from '../icons/pufETH.svg';
-import _rsETH from '../icons/rsETH.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -373,6 +373,7 @@ export default {
   'UNIV2USDCETH': _UNIV2USDCETH,
   'UNIV2WBTCDAI': _UNIV2WBTCDAI,
   'UNIV2WBTCETH': _UNIV2WBTCETH,
+  'USDA': _USDA,
   'USDC': _USDC,
   'USDC.e': _USDCe,
   'USDP': _USDP,
@@ -471,12 +472,16 @@ export default {
   'crvUSDT': _crvUSDT,
   'crvUST': _crvUST,
   'crvYBUSD': _crvYBUSD,
+  'ezETH': _ezETH,
   'frxETH': _frxETH,
   'iDAI': _iDAI,
   'imUSD': _imUSD,
   'mUSD': _mUSD,
+  'osETH': _osETH,
+  'pufETH': _pufETH,
   'rETH': _rETH,
   'reCRV': _reCRV,
+  'rsETH': _rsETH,
   'sDAI': _sDAI,
   'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,
@@ -490,12 +495,7 @@ export default {
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV,
-  'USDA': _USDA,
-  'ezETH': _ezETH,
-  'osETH': _osETH,
-  'pufETH': _pufETH,
-  'rsETH': _rsETH,
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

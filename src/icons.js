@@ -248,6 +248,7 @@ import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import _cbBTC from '../icons/cbBTC.svg';
+import _wrsETH from '../icons/wrsETH.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -497,7 +498,8 @@ export default {
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
   'yveCRV': _yveCRV,
-  'cbBTC': _cbBTC
+  'cbBTC': _cbBTC,
+  'wrsETH': _wrsETH
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

@@ -249,6 +249,9 @@ import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import _cbBTC from '../icons/cbBTC.svg';
 import _wrsETH from '../icons/wrsETH.svg';
+import _USDS from '../icons/USDS.svg';
+import _sUSDS from '../icons/sUSDS.svg';
+import _SKY from '../icons/SKY.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -499,7 +502,10 @@ export default {
   'yCRV': _yCRV,
   'yveCRV': _yveCRV,
   'cbBTC': _cbBTC,
-  'wrsETH': _wrsETH
+  'wrsETH': _wrsETH,
+  'USDS': _USDS,
+  'sUSDS': _sUSDS,
+  'SKY': _SKY,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

@@ -96,6 +96,7 @@ import _RPL from '../icons/RPL.svg';
 import _RUNE from '../icons/RUNE.svg';
 import _SAI from '../icons/SAI.svg';
 import _SHIB from '../icons/SHIB.svg';
+import _SKY from '../icons/SKY.svg';
 import _SNT from '../icons/SNT.svg';
 import _SNX from '../icons/SNX.svg';
 import _SOHM from '../icons/SOHM.svg';
@@ -128,6 +129,7 @@ import _USDA from '../icons/USDA.svg';
 import _USDC from '../icons/USDC.svg';
 import _USDCe from '../icons/USDCe.svg';
 import _USDP from '../icons/USDP.svg';
+import _USDS from '../icons/USDS.svg';
 import _USDT from '../icons/USDT.svg';
 import _USDbC from '../icons/USDbC.svg';
 import _USDe from '../icons/USDe.svg';
@@ -181,6 +183,7 @@ import _cWBTC from '../icons/cWBTC.svg';
 import _cWBTC_Legacy from '../icons/cWBTC_Legacy.svg';
 import _cYFI from '../icons/cYFI.svg';
 import _cZRX from '../icons/cZRX.svg';
+import _cbBTC from '../icons/cbBTC.svg';
 import _cbETH from '../icons/cbETH.svg';
 import _cbeCRV from '../icons/cbeCRV.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
@@ -233,7 +236,9 @@ import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
 import _reCRV from '../icons/reCRV.svg';
 import _rsETH from '../icons/rsETH.svg';
+import _rswETH from '../icons/rswETH.svg';
 import _sDAI from '../icons/sDAI.svg';
+import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
@@ -243,15 +248,11 @@ import _tBTC from '../icons/tBTC.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
 import _weETH from '../icons/weETH.svg';
+import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import _cbBTC from '../icons/cbBTC.svg';
-import _wrsETH from '../icons/wrsETH.svg';
-import _USDS from '../icons/USDS.svg';
-import _sUSDS from '../icons/sUSDS.svg';
-import _SKY from '../icons/SKY.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -350,6 +351,7 @@ export default {
   'RUNE': _RUNE,
   'SAI': _SAI,
   'SHIB': _SHIB,
+  'SKY': _SKY,
   'SNT': _SNT,
   'SNX': _SNX,
   'SOHM': _SOHM,
@@ -382,6 +384,7 @@ export default {
   'USDC': _USDC,
   'USDC.e': _USDCe,
   'USDP': _USDP,
+  'USDS': _USDS,
   'USDT': _USDT,
   'USDbC': _USDbC,
   'USDe': _USDe,
@@ -435,6 +438,7 @@ export default {
   'cWBTC Legacy': _cWBTC_Legacy,
   'cYFI': _cYFI,
   'cZRX': _cZRX,
+  'cbBTC': _cbBTC,
   'cbETH': _cbETH,
   'cbeCRV': _cbeCRV,
   'crv3crypto': _crv3crypto,
@@ -487,7 +491,9 @@ export default {
   'rETH': _rETH,
   'reCRV': _reCRV,
   'rsETH': _rsETH,
+  'rswETH': _rswETH,
   'sDAI': _sDAI,
+  'sUSDS': _sUSDS,
   'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,
   'stETH': _stETH,
@@ -497,15 +503,11 @@ export default {
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
   'weETH': _weETH,
+  'wrsETH': _wrsETH,
   'wstETH': _wstETH,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV,
-  'cbBTC': _cbBTC,
-  'wrsETH': _wrsETH,
-  'USDS': _USDS,
-  'sUSDS': _sUSDS,
-  'SKY': _SKY,
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

@@ -250,6 +250,7 @@ import _wOUSD from '../icons/wOUSD.svg';
 import _weETH from '../icons/weETH.svg';
 import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
+import _wsuperOETHb from '../icons/wsuperOETHb.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
@@ -505,6 +506,7 @@ export default {
   'weETH': _weETH,
   'wrsETH': _wrsETH,
   'wstETH': _wstETH,
+  'wsuperOETHb': _wsuperOETHb,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
   'yveCRV': _yveCRV

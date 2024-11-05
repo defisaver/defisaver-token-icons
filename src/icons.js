@@ -231,8 +231,8 @@ import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
+import _mTBILL from '../icons/mTBILL.svg';
 import _mUSD from '../icons/mUSD.svg';
-import _mtBILL from '../icons/mtBILL.svg';
 import _osETH from '../icons/osETH.svg';
 import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
@@ -490,8 +490,8 @@ export default {
   'frxETH': _frxETH,
   'iDAI': _iDAI,
   'imUSD': _imUSD,
+  'mTBILL': _mTBILL,
   'mUSD': _mUSD,
-  'mtBILL': _mtBILL,
   'osETH': _osETH,
   'pufETH': _pufETH,
   'rETH': _rETH,

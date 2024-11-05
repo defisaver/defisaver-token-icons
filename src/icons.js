@@ -58,6 +58,7 @@ import _IDLE from '../icons/IDLE.svg';
 import _INST from '../icons/INST.svg';
 import _KNC from '../icons/KNC.svg';
 import _KNCL from '../icons/KNCL.svg';
+import _LBTC from '../icons/LBTC.svg';
 import _LDO from '../icons/LDO.svg';
 import _LEND from '../icons/LEND.svg';
 import _LINK from '../icons/LINK.svg';
@@ -231,6 +232,7 @@ import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
 import _mUSD from '../icons/mUSD.svg';
+import _mtBILL from '../icons/mtBILL.svg';
 import _osETH from '../icons/osETH.svg';
 import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
@@ -245,6 +247,7 @@ import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
 import _tBTC from '../icons/tBTC.svg';
+import _wM from '../icons/wM.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
 import _weETH from '../icons/weETH.svg';
@@ -314,6 +317,7 @@ export default {
   'INST': _INST,
   'KNC': _KNC,
   'KNCL': _KNCL,
+  'LBTC': _LBTC,
   'LDO': _LDO,
   'LEND': _LEND,
   'LINK': _LINK,
@@ -487,6 +491,7 @@ export default {
   'iDAI': _iDAI,
   'imUSD': _imUSD,
   'mUSD': _mUSD,
+  'mtBILL': _mtBILL,
   'osETH': _osETH,
   'pufETH': _pufETH,
   'rETH': _rETH,
@@ -501,6 +506,7 @@ export default {
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
   'tBTC': _tBTC,
+  'wM': _wM,
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
   'weETH': _weETH,

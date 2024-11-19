@@ -72,6 +72,7 @@ import _MIM from '../icons/MIM.svg';
 import _MIR from '../icons/MIR.svg';
 import _MKR from '../icons/MKR.svg';
 import _MORPHO from '../icons/MORPHO.svg';
+import _MORPHO_LEGACY from '../icons/MORPHO_Legacy.svg';
 import _MTA from '../icons/MTA.svg';
 import _OETH from '../icons/OETH.svg';
 import _OGV from '../icons/OGV.svg';
@@ -331,6 +332,7 @@ export default {
   'MIR': _MIR,
   'MKR': _MKR,
   'MORPHO': _MORPHO,
+  'MORPHO Legacy': _MORPHO_LEGACY,
   'MTA': _MTA,
   'OETH': _OETH,
   'OGV': _OGV,

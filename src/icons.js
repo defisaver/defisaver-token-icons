@@ -72,7 +72,7 @@ import _MIM from '../icons/MIM.svg';
 import _MIR from '../icons/MIR.svg';
 import _MKR from '../icons/MKR.svg';
 import _MORPHO from '../icons/MORPHO.svg';
-import _MORPHO_LEGACY from '../icons/MORPHO_Legacy.svg';
+import _MORPHO_Legacy from '../icons/MORPHO_Legacy.svg';
 import _MTA from '../icons/MTA.svg';
 import _OETH from '../icons/OETH.svg';
 import _OGV from '../icons/OGV.svg';
@@ -247,6 +247,7 @@ import _sfrxETH from '../icons/sfrxETH.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
+import _stkGHO from '../icons/stkGHO.svg';
 import _tBTC from '../icons/tBTC.svg';
 import _wM from '../icons/wM.svg';
 import _wOETH from '../icons/wOETH.svg';
@@ -332,7 +333,7 @@ export default {
   'MIR': _MIR,
   'MKR': _MKR,
   'MORPHO': _MORPHO,
-  'MORPHO Legacy': _MORPHO_LEGACY,
+  'MORPHO_Legacy': _MORPHO_Legacy,
   'MTA': _MTA,
   'OETH': _OETH,
   'OGV': _OGV,
@@ -507,6 +508,7 @@ export default {
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
+  'stkGHO': _stkGHO,
   'tBTC': _tBTC,
   'wM': _wM,
   'wOETH': _wOETH,

@@ -241,6 +241,7 @@ import _reCRV from '../icons/reCRV.svg';
 import _rsETH from '../icons/rsETH.svg';
 import _rswETH from '../icons/rswETH.svg';
 import _sDAI from '../icons/sDAI.svg';
+import _sFRAX from '../icons/sFRAX.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
@@ -252,6 +253,7 @@ import _tBTC from '../icons/tBTC.svg';
 import _wM from '../icons/wM.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
+import _wUSDM from '../icons/wUSDM.svg';
 import _weETH from '../icons/weETH.svg';
 import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
@@ -502,6 +504,7 @@ export default {
   'rsETH': _rsETH,
   'rswETH': _rswETH,
   'sDAI': _sDAI,
+  'sFRAX': _sFRAX,
   'sUSDS': _sUSDS,
   'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,
@@ -513,6 +516,7 @@ export default {
   'wM': _wM,
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
+  'wUSDM': _wUSDM,
   'weETH': _weETH,
   'wrsETH': _wrsETH,
   'wstETH': _wstETH,

@@ -35,6 +35,7 @@ import _ENS from '../icons/ENS.svg';
 import _ETH from '../icons/ETH.svg';
 import _ETH2x_FLI from '../icons/ETH2x_FLI.svg';
 import _ETHx from '../icons/ETHx.svg';
+import _EURC from '../icons/EURC.svg';
 import _EURS from '../icons/EURS.svg';
 import _FARM from '../icons/FARM.svg';
 import _FEI from '../icons/FEI.svg';
@@ -232,6 +233,7 @@ import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imUSD from '../icons/imUSD.svg';
+import _mETH from '../icons/mETH.svg';
 import _mTBILL from '../icons/mTBILL.svg';
 import _mUSD from '../icons/mUSD.svg';
 import _osETH from '../icons/osETH.svg';
@@ -298,6 +300,7 @@ export default {
   'ETH': _ETH,
   'ETH2x-FLI': _ETH2x_FLI,
   'ETHx': _ETHx,
+  'EURC': _EURC,
   'EURS': _EURS,
   'FARM': _FARM,
   'FEI': _FEI,
@@ -495,6 +498,7 @@ export default {
   'frxETH': _frxETH,
   'iDAI': _iDAI,
   'imUSD': _imUSD,
+  'mETH': _mETH,
   'mTBILL': _mTBILL,
   'mUSD': _mUSD,
   'osETH': _osETH,

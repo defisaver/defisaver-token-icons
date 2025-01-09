@@ -93,6 +93,7 @@ import _RENFIL from '../icons/RENFIL.svg';
 import _REP from '../icons/REP.svg';
 import _REPv2 from '../icons/REPv2.svg';
 import _RGT from '../icons/RGT.svg';
+import _RLP from '../icons/RLP.svg';
 import _ROBOT from '../icons/ROBOT.svg';
 import _ROOK from '../icons/ROOK.svg';
 import _RPL from '../icons/RPL.svg';
@@ -136,6 +137,7 @@ import _USDS from '../icons/USDS.svg';
 import _USDT from '../icons/USDT.svg';
 import _USDbC from '../icons/USDbC.svg';
 import _USDe from '../icons/USDe.svg';
+import _USR from '../icons/USR.svg';
 import _UST from '../icons/UST.svg';
 import _WBTC from '../icons/WBTC.svg';
 import _WETH from '../icons/WETH.svg';
@@ -358,6 +360,7 @@ export default {
   'REP': _REP,
   'REPv2': _REPv2,
   'RGT': _RGT,
+  'RLP': _RLP,
   'ROBOT': _ROBOT,
   'ROOK': _ROOK,
   'RPL': _RPL,
@@ -401,6 +404,7 @@ export default {
   'USDT': _USDT,
   'USDbC': _USDbC,
   'USDe': _USDe,
+  'USR': _USR,
   'UST': _UST,
   'WBTC': _WBTC,
   'WETH': _WETH,

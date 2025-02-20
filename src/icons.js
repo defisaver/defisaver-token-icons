@@ -259,6 +259,7 @@ import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
 import _wUSDM from '../icons/wUSDM.svg';
 import _weETH from '../icons/weETH.svg';
+import _weETHs from '../icons/weETHs.svg';
 import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _wsuperOETHb from '../icons/wsuperOETHb.svg';
@@ -526,6 +527,7 @@ export default {
   'wOUSD': _wOUSD,
   'wUSDM': _wUSDM,
   'weETH': _weETH,
+  'weETHs': _weETHs,
   'wrsETH': _wrsETH,
   'wstETH': _wstETH,
   'wsuperOETHb': _wsuperOETHb,

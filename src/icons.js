@@ -16,6 +16,7 @@ import _BAL from '../icons/BAL.svg';
 import _BAT from '../icons/BAT.svg';
 import _BED from '../icons/BED.svg';
 import _BNT from '../icons/BNT.svg';
+import _BOLD from '../icons/BOLD.svg';
 import _BTC2x_FLI from '../icons/BTC2x_FLI.svg';
 import _BUSD from '../icons/BUSD.svg';
 import _COMP from '../icons/COMP.svg';
@@ -57,6 +58,7 @@ import _GUSD from '../icons/GUSD.svg';
 import _HEGIC from '../icons/HEGIC.svg';
 import _IDLE from '../icons/IDLE.svg';
 import _INST from '../icons/INST.svg';
+import _KING from '../icons/KING.svg';
 import _KNC from '../icons/KNC.svg';
 import _KNCL from '../icons/KNCL.svg';
 import _LBTC from '../icons/LBTC.svg';
@@ -265,7 +267,6 @@ import _wsuperOETHb from '../icons/wsuperOETHb.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import _BOLD from '../icons/BOLD.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -284,6 +285,7 @@ export default {
   'BAT': _BAT,
   'BED': _BED,
   'BNT': _BNT,
+  'BOLD': _BOLD,
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,
@@ -325,6 +327,7 @@ export default {
   'HEGIC': _HEGIC,
   'IDLE': _IDLE,
   'INST': _INST,
+  'KING': _KING,
   'KNC': _KNC,
   'KNCL': _KNCL,
   'LBTC': _LBTC,
@@ -532,8 +535,7 @@ export default {
   'wsuperOETHb': _wsuperOETHb,
   'xSUSHI': _xSUSHI,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV,
-  'BOLD': _BOLD,
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

@@ -57,6 +57,7 @@ import _GUSD from '../icons/GUSD.svg';
 import _HEGIC from '../icons/HEGIC.svg';
 import _IDLE from '../icons/IDLE.svg';
 import _INST from '../icons/INST.svg';
+import _KING from '../icons/KING.svg';
 import _KNC from '../icons/KNC.svg';
 import _KNCL from '../icons/KNCL.svg';
 import _LBTC from '../icons/LBTC.svg';
@@ -325,6 +326,7 @@ export default {
   'HEGIC': _HEGIC,
   'IDLE': _IDLE,
   'INST': _INST,
+  'KING': _KING,
   'KNC': _KNC,
   'KNCL': _KNCL,
   'LBTC': _LBTC,

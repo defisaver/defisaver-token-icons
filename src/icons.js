@@ -39,6 +39,7 @@ import _EURC from '../icons/EURC.svg';
 import _EURS from '../icons/EURS.svg';
 import _FARM from '../icons/FARM.svg';
 import _FEI from '../icons/FEI.svg';
+import _FLUID from '../icons/FLUID.svg';
 import _FLX from '../icons/FLX.svg';
 import _FOX from '../icons/FOX.svg';
 import _FRAX from '../icons/FRAX.svg';
@@ -306,6 +307,7 @@ export default {
   'EURS': _EURS,
   'FARM': _FARM,
   'FEI': _FEI,
+  'FLUID': _FLUID,
   'FLX': _FLX,
   'FOX': _FOX,
   'FRAX': _FRAX,

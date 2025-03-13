@@ -58,6 +58,7 @@ import _GUSD from '../icons/GUSD.svg';
 import _HEGIC from '../icons/HEGIC.svg';
 import _IDLE from '../icons/IDLE.svg';
 import _INST from '../icons/INST.svg';
+import _KING from '../icons/KING.svg';
 import _KNC from '../icons/KNC.svg';
 import _KNCL from '../icons/KNCL.svg';
 import _LBTC from '../icons/LBTC.svg';
@@ -107,6 +108,7 @@ import _SNX from '../icons/SNX.svg';
 import _SOHM from '../icons/SOHM.svg';
 import _SPANK from '../icons/SPANK.svg';
 import _SPELL from '../icons/SPELL.svg';
+import _SPK from '../icons/SPK.svg';
 import _STG from '../icons/STG.svg';
 import _SUSD from '../icons/SUSD.svg';
 import _SUSHI from '../icons/SUSHI.svg';
@@ -260,6 +262,7 @@ import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
 import _wUSDM from '../icons/wUSDM.svg';
 import _weETH from '../icons/weETH.svg';
+import _weETHs from '../icons/weETHs.svg';
 import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _wsuperOETHb from '../icons/wsuperOETHb.svg';
@@ -326,6 +329,7 @@ export default {
   'HEGIC': _HEGIC,
   'IDLE': _IDLE,
   'INST': _INST,
+  'KING': _KING,
   'KNC': _KNC,
   'KNCL': _KNCL,
   'LBTC': _LBTC,
@@ -375,6 +379,7 @@ export default {
   'SOHM': _SOHM,
   'SPANK': _SPANK,
   'SPELL': _SPELL,
+  'SPK': _SPK,
   'STG': _STG,
   'SUSD': _SUSD,
   'SUSHI': _SUSHI,
@@ -528,6 +533,7 @@ export default {
   'wOUSD': _wOUSD,
   'wUSDM': _wUSDM,
   'weETH': _weETH,
+  'weETHs': _weETHs,
   'wrsETH': _wrsETH,
   'wstETH': _wstETH,
   'wsuperOETHb': _wsuperOETHb,

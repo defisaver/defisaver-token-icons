@@ -15,7 +15,7 @@ const directoryPath = path.join(__dirname, '../icons/');
     const iconContent = await fs.readFile(directoryPath + filename, { encoding: 'utf-8' });
     const hasNameInComment = iconContent.match(/<!--(.*)-->/);
     if (hasNameInComment) {
-      console.log(hasNameInComment[1]);
+      console.log(`Has name in comment: ${hasNameInComment[1]}`);
       token = hasNameInComment[1];
     }
     tokens.push(`'${token}': _${filenameNoExt}`);
@@ -34,4 +34,6 @@ const directoryPath = path.join(__dirname, '../icons/');
   const f = await fs.open(__dirname + '/../src/icons.js', 'w');
   await f.write(fileData);
   await f.close();
+
+  console.log(`Index with ${tokens.length} icons generated: ${__dirname}/../src/icons.js`);
 })();

@@ -16,6 +16,7 @@ import _BAL from '../icons/BAL.svg';
 import _BAT from '../icons/BAT.svg';
 import _BED from '../icons/BED.svg';
 import _BNT from '../icons/BNT.svg';
+import _BOLD from '../icons/BOLD.svg';
 import _BTC2x_FLI from '../icons/BTC2x_FLI.svg';
 import _BUSD from '../icons/BUSD.svg';
 import _COMP from '../icons/COMP.svg';
@@ -287,6 +288,7 @@ export default {
   'BAT': _BAT,
   'BED': _BED,
   'BNT': _BNT,
+  'BOLD': _BOLD,
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,

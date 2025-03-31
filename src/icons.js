@@ -248,6 +248,7 @@ import _rETH from '../icons/rETH.svg';
 import _reCRV from '../icons/reCRV.svg';
 import _rsETH from '../icons/rsETH.svg';
 import _rswETH from '../icons/rswETH.svg';
+import _rEUL from '../icons/rEUL.svg';
 import _sDAI from '../icons/sDAI.svg';
 import _sFRAX from '../icons/sFRAX.svg';
 import _sUSDS from '../icons/sUSDS.svg';
@@ -520,6 +521,7 @@ export default {
   'reCRV': _reCRV,
   'rsETH': _rsETH,
   'rswETH': _rswETH,
+  'rEUL':__rEUL,
   'sDAI': _sDAI,
   'sFRAX': _sFRAX,
   'sUSDS': _sUSDS,

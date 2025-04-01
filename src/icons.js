@@ -521,7 +521,7 @@ export default {
   'reCRV': _reCRV,
   'rsETH': _rsETH,
   'rswETH': _rswETH,
-  'rEUL':__rEUL,
+  'rEUL':_rEUL,
   'sDAI': _sDAI,
   'sFRAX': _sFRAX,
   'sUSDS': _sUSDS,

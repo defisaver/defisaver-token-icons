@@ -245,10 +245,10 @@ import _mUSD from '../icons/mUSD.svg';
 import _osETH from '../icons/osETH.svg';
 import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
+import _rEUL from '../icons/rEUL.svg';
 import _reCRV from '../icons/reCRV.svg';
 import _rsETH from '../icons/rsETH.svg';
 import _rswETH from '../icons/rswETH.svg';
-import _rEUL from '../icons/rEUL.svg';
 import _sDAI from '../icons/sDAI.svg';
 import _sFRAX from '../icons/sFRAX.svg';
 import _sUSDS from '../icons/sUSDS.svg';
@@ -518,10 +518,10 @@ export default {
   'osETH': _osETH,
   'pufETH': _pufETH,
   'rETH': _rETH,
+  'rEUL': _rEUL,
   'reCRV': _reCRV,
   'rsETH': _rsETH,
   'rswETH': _rswETH,
-  'rEUL':_rEUL,
   'sDAI': _sDAI,
   'sFRAX': _sFRAX,
   'sUSDS': _sUSDS,

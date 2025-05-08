@@ -272,8 +272,8 @@ import _xSUSHI from '../icons/xSUSHI.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import __RLUSD from '../icons/RLUSD.svg';
-import __PTeUSDeMay from '../icons/PTeUSDeMay';
-import __PTsUSDeJuly from '../icons/PTsUSDeJuly';
+import __PTeUSDeMay from '../icons/PTeUSDeMay.svg';
+import __PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
 
 export default {
   '1INCH': _1INCH,

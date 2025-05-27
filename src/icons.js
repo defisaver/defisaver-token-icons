@@ -275,6 +275,8 @@ import _yveCRV from '../icons/yveCRV.svg';
 import __RLUSD from '../icons/RLUSD.svg';
 import __PTeUSDeMay from '../icons/PTeUSDeMay.svg';
 import __PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
+import __PTUSDe from '../icons/PTUSDe.svg';
+import _eUSDe from '../icons/eUSDe.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -553,6 +555,9 @@ export default {
   'PT eUSDe May': __PTeUSDeMay,
   'PT sUSDe July': __PTsUSDeJuly,
   'USDtb': _sUSDe,
+  'PT eUSDe Aug': __PTeUSDeMay,
+  'PT USDe July': __PTUSDe,
+  'eUSDe': _eUSDe,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

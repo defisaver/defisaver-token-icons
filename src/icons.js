@@ -277,6 +277,8 @@ import __PTeUSDeMay from '../icons/PTeUSDeMay.svg';
 import __PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
 import __PTUSDe from '../icons/PTUSDe.svg';
 import _eUSDe from '../icons/eUSDe.svg';
+import _tETH from '../icons/tETH.svg';
+import _FBTC from '../icons/FBTC.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -558,6 +560,8 @@ export default {
   'PT eUSDe Aug': __PTeUSDeMay,
   'PT USDe July': __PTUSDe,
   'eUSDe': _eUSDe,
+  'tETH': _tETH,
+  'FBTC': _FBTC,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

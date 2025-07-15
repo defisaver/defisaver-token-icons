@@ -556,6 +556,7 @@ export default {
   'RLUSD': __RLUSD,
   'PT eUSDe May': __PTeUSDeMay,
   'PT sUSDe July': __PTsUSDeJuly,
+  'PT sUSDe Sep': __PTsUSDeJuly,
   'USDtb': _sUSDe,
   'PT eUSDe Aug': __PTeUSDeMay,
   'PT USDe July': __PTUSDe,

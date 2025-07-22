@@ -1,6 +1,6 @@
 {
   "name": "@defisaver/token-icons",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "description": "",
   "module": "src/index.js",
   "scripts": {

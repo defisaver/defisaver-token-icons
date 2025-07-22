@@ -40,6 +40,7 @@ import _ETHx from '../icons/ETHx.svg';
 import _EURC from '../icons/EURC.svg';
 import _EURS from '../icons/EURS.svg';
 import _FARM from '../icons/FARM.svg';
+import _FBTC from '../icons/FBTC.svg';
 import _FEI from '../icons/FEI.svg';
 import _FLUID from '../icons/FLUID.svg';
 import _FLX from '../icons/FLX.svg';
@@ -88,6 +89,9 @@ import _OUSD from '../icons/OUSD.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
+import _PTUSDe from '../icons/PTUSDe.svg';
+import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
+import _PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
 import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
@@ -98,6 +102,7 @@ import _REP from '../icons/REP.svg';
 import _REPv2 from '../icons/REPv2.svg';
 import _RGT from '../icons/RGT.svg';
 import _RLP from '../icons/RLP.svg';
+import _RLUSD from '../icons/RLUSD.svg';
 import _ROBOT from '../icons/ROBOT.svg';
 import _ROOK from '../icons/ROOK.svg';
 import _RPL from '../icons/RPL.svg';
@@ -236,6 +241,7 @@ import _crvUSDP from '../icons/crvUSDP.svg';
 import _crvUSDT from '../icons/crvUSDT.svg';
 import _crvUST from '../icons/crvUST.svg';
 import _crvYBUSD from '../icons/crvYBUSD.svg';
+import _eUSDe from '../icons/eUSDe.svg';
 import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
@@ -250,6 +256,7 @@ import _rEUL from '../icons/rEUL.svg';
 import _reCRV from '../icons/reCRV.svg';
 import _rsETH from '../icons/rsETH.svg';
 import _rswETH from '../icons/rswETH.svg';
+import _sBOLD from '../icons/sBOLD.svg';
 import _sDAI from '../icons/sDAI.svg';
 import _sFRAX from '../icons/sFRAX.svg';
 import _sUSDS from '../icons/sUSDS.svg';
@@ -260,6 +267,7 @@ import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
 import _stkGHO from '../icons/stkGHO.svg';
 import _tBTC from '../icons/tBTC.svg';
+import _tETH from '../icons/tETH.svg';
 import _wM from '../icons/wM.svg';
 import _wOETH from '../icons/wOETH.svg';
 import _wOUSD from '../icons/wOUSD.svg';
@@ -270,17 +278,9 @@ import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _wsuperOETHb from '../icons/wsuperOETHb.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
+import _yBOLD from '../icons/yBOLD.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import __RLUSD from '../icons/RLUSD.svg';
-import __PTeUSDeMay from '../icons/PTeUSDeMay.svg';
-import __PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
-import __PTUSDe from '../icons/PTUSDe.svg';
-import _eUSDe from '../icons/eUSDe.svg';
-import _tETH from '../icons/tETH.svg';
-import _FBTC from '../icons/FBTC.svg';
-import _sBOLD from '../icons/sBOLD.svg';
-import _yBOLD from '../icons/yBOLD.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -300,7 +300,7 @@ export default {
   'BED': _BED,
   'BNT': _BNT,
   'BOLD': _BOLD,
-  'BOLD Legacy': _BOLDLegacy,
+  'BOLDLegacy': _BOLDLegacy,
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,
@@ -323,6 +323,7 @@ export default {
   'EURC': _EURC,
   'EURS': _EURS,
   'FARM': _FARM,
+  'FBTC': _FBTC,
   'FEI': _FEI,
   'FLUID': _FLUID,
   'FLX': _FLX,
@@ -371,6 +372,9 @@ export default {
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
+  'PTUSDe': _PTUSDe,
+  'PTeUSDeMay': _PTeUSDeMay,
+  'PTsUSDeJuly': _PTsUSDeJuly,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,
@@ -381,6 +385,7 @@ export default {
   'REPv2': _REPv2,
   'RGT': _RGT,
   'RLP': _RLP,
+  'RLUSD': _RLUSD,
   'ROBOT': _ROBOT,
   'ROOK': _ROOK,
   'RPL': _RPL,
@@ -519,6 +524,7 @@ export default {
   'crvUSDT': _crvUSDT,
   'crvUST': _crvUST,
   'crvYBUSD': _crvYBUSD,
+  'eUSDe': _eUSDe,
   'ezETH': _ezETH,
   'frxETH': _frxETH,
   'iDAI': _iDAI,
@@ -533,6 +539,7 @@ export default {
   'reCRV': _reCRV,
   'rsETH': _rsETH,
   'rswETH': _rswETH,
+  'sBOLD': _sBOLD,
   'sDAI': _sDAI,
   'sFRAX': _sFRAX,
   'sUSDS': _sUSDS,
@@ -543,6 +550,7 @@ export default {
   'stkAAVE': _stkAAVE,
   'stkGHO': _stkGHO,
   'tBTC': _tBTC,
+  'tETH': _tETH,
   'wM': _wM,
   'wOETH': _wOETH,
   'wOUSD': _wOUSD,
@@ -553,19 +561,9 @@ export default {
   'wstETH': _wstETH,
   'wsuperOETHb': _wsuperOETHb,
   'xSUSHI': _xSUSHI,
+  'yBOLD': _yBOLD,
   'yCRV': _yCRV,
-  'yveCRV': _yveCRV,
-  'RLUSD': __RLUSD,
-  'PT eUSDe May': __PTeUSDeMay,
-  'PT sUSDe July': __PTsUSDeJuly,
-  'PT sUSDe Sep': __PTsUSDeJuly,
-  'USDtb': _sUSDe,
-  'PT eUSDe Aug': __PTeUSDeMay,
-  'PT USDe July': __PTUSDe,
-  'eUSDe': _eUSDe,
-  'tETH': _tETH,
-  'FBTC': _FBTC,
-  'sBOLD': _sBOLD,
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

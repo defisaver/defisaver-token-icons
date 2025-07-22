@@ -279,6 +279,8 @@ import __PTUSDe from '../icons/PTUSDe.svg';
 import _eUSDe from '../icons/eUSDe.svg';
 import _tETH from '../icons/tETH.svg';
 import _FBTC from '../icons/FBTC.svg';
+import _sBOLD from '../icons/sBOLD.svg';
+import _yBOLD from '../icons/yBOLD.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -563,6 +565,7 @@ export default {
   'eUSDe': _eUSDe,
   'tETH': _tETH,
   'FBTC': _FBTC,
+  'sBOLD': _sBOLD,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

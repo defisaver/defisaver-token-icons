@@ -280,6 +280,7 @@ import _wsuperOETHb from '../icons/wsuperOETHb.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _yBOLD from '../icons/yBOLD.svg';
 import _yCRV from '../icons/yCRV.svg';
+import _ysyBOLD from '../icons/ysyBOLD.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 
 export default {
@@ -563,6 +564,7 @@ export default {
   'xSUSHI': _xSUSHI,
   'yBOLD': _yBOLD,
   'yCRV': _yCRV,
+  'ysyBOLD': _ysyBOLD,
   'yveCRV': _yveCRV
 };
 

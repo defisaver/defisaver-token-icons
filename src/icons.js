@@ -90,8 +90,8 @@ import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
 import _PTUSDe from '../icons/PTUSDe.svg';
-import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
-import _PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
+import _PTeUSDe from '../icons/PTeUSDeMay.svg';
+import _PTsUSDe from '../icons/PTsUSDeJuly.svg';
 import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
@@ -301,7 +301,7 @@ export default {
   'BED': _BED,
   'BNT': _BNT,
   'BOLD': _BOLD,
-  'BOLDLegacy': _BOLDLegacy,
+  'BOLD Legacy': _BOLDLegacy,
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,
@@ -373,9 +373,12 @@ export default {
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
-  'PTUSDe': _PTUSDe,
-  'PTeUSDeMay': _PTeUSDeMay,
-  'PTsUSDeJuly': _PTsUSDeJuly,
+  'PT eUSDe Aug': _PTeUSDe,
+  'PT USDe July': _PTUSDe,
+  'PT eUSDe May': _PTeUSDe,
+  'PT sUSDe July': _PTsUSDe,
+  'PT sUSDe Sep': _PTsUSDe,
+  'PT USDe Sep': _PTUSDe,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,

@@ -12,13 +12,15 @@ const directoryPath = path.join(__dirname, '../icons/');
     const filenameNoExt = filename.replace(/\.\w{3,4}$/, '');
 
     let token = filenameNoExt;
+    let hasNameInComment = false;
     const iconContent = await fs.readFile(directoryPath + filename, { encoding: 'utf-8' });
-    const hasNameInComment = iconContent.match(/<!--(.*)-->/);
-    if (hasNameInComment) {
-      console.log(`Has name in comment: ${hasNameInComment[1]}`);
-      token = hasNameInComment[1];
+    const matches = iconContent.matchAll(/<!--(.*)-->/g);
+    for (const match of matches) {
+      hasNameInComment = true;
+      console.log(`Has name in comment: ${match[1]}`);
+      tokens.push(`'${match[1]}': _${filenameNoExt}`);
     }
-    tokens.push(`'${token}': _${filenameNoExt}`);
+    if (!hasNameInComment) tokens.push(`'${token}': _${filenameNoExt}`);
 
     imports.push(`import _${filenameNoExt} from '../icons/${filename}';`);
   }

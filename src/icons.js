@@ -282,6 +282,7 @@ import _YFII from '../icons/YFII.svg';
 import _ysyBOLD from '../icons/ysyBOLD.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import _ZRX from '../icons/ZRX.svg';
+import _syrupUSDC from '../icons/syrupUSDC.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -517,6 +518,7 @@ export default {
   'sUSDe': _sUSDe,
   'sUSDS': _sUSDS,
   'SUSHI': _SUSHI,
+  'syrupUSDC': _syrupUSDC,
   'tBTC': _tBTC,
   'TCAP': _TCAP,
   'TEND': _TEND,

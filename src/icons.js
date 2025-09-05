@@ -381,6 +381,7 @@ export default {
   'POOL': _POOL,
   'PT USDe July': _PTUSDe,
   'PT USDe Sep': _PTUSDe,
+  'PT USDe Nov': _PTUSDe,
   'PT eUSDe Aug': _PTeUSDeMay,
   'PT eUSDe May': _PTeUSDeMay,
   'PT sUSDe July': _PTsUSDeJuly,

@@ -278,7 +278,9 @@ import _wrsETH from '../icons/wrsETH.svg';
 import _wstETH from '../icons/wstETH.svg';
 import _wsuperOETHb from '../icons/wsuperOETHb.svg';
 import _wUSDM from '../icons/wUSDM.svg';
+import _WXPL from '../icons/WXPL.svg';
 import _XAUt from '../icons/XAUt.svg';
+import _XPL from '../icons/XPL.svg';
 import _xSUSHI from '../icons/xSUSHI.svg';
 import _YAM from '../icons/YAM.svg';
 import _yBOLD from '../icons/yBOLD.svg';
@@ -573,7 +575,9 @@ export default {
   'wstETH': _wstETH,
   'wsuperOETHb': _wsuperOETHb,
   'wUSDM': _wUSDM,
+  'WXPL': _WXPL,
   'XAUt': _XAUt,
+  'XPL': _XPL,
   'xSUSHI': _xSUSHI,
   'YAM': _YAM,
   'yBOLD': _yBOLD,

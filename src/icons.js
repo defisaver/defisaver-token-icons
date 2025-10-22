@@ -234,6 +234,7 @@ import _sUSDe from '../icons/sUSDe.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _SUSHI from '../icons/SUSHI.svg';
 import _syrupUSDC from '../icons/syrupUSDC.svg';
+import _syrupUSDT from '../icons/syrupUSDT.svg';
 import _tBTC from '../icons/tBTC.svg';
 import _TCAP from '../icons/TCAP.svg';
 import _TEND from '../icons/TEND.svg';
@@ -533,6 +534,7 @@ export default {
   'sUSDS': _sUSDS,
   'SUSHI': _SUSHI,
   'syrupUSDC': _syrupUSDC,
+  'syrupUSDT': _syrupUSDT,
   'tBTC': _tBTC,
   'TCAP': _TCAP,
   'TEND': _TEND,

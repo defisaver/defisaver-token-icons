@@ -234,6 +234,7 @@ import _sUSDe from '../icons/sUSDe.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _SUSHI from '../icons/SUSHI.svg';
 import _syrupUSDC from '../icons/syrupUSDC.svg';
+import _syrupUSDT from '../icons/syrupUSDT.svg';
 import _tBTC from '../icons/tBTC.svg';
 import _TCAP from '../icons/TCAP.svg';
 import _TEND from '../icons/TEND.svg';
@@ -484,9 +485,11 @@ export default {
   'PT sUSDe July': _PTsUSDeJuly,
   'PT sUSDe Sep': _PTsUSDeJuly,
   'PT sUSDe Nov': _PTsUSDeJuly,
+  'PT sUSDe Jan': _PTsUSDeJuly,
   'PT USDe July': _PTUSDe,
   'PT USDe Sep': _PTUSDe,
   'PT USDe Nov': _PTUSDe,
+  'PT USDe Jan': _PTUSDe,
   'pufETH': _pufETH,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
@@ -531,6 +534,7 @@ export default {
   'sUSDS': _sUSDS,
   'SUSHI': _SUSHI,
   'syrupUSDC': _syrupUSDC,
+  'syrupUSDT': _syrupUSDT,
   'tBTC': _tBTC,
   'TCAP': _TCAP,
   'TEND': _TEND,

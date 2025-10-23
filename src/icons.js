@@ -291,6 +291,8 @@ import _YFII from '../icons/YFII.svg';
 import _ysyBOLD from '../icons/ysyBOLD.svg';
 import _yveCRV from '../icons/yveCRV.svg';
 import _ZRX from '../icons/ZRX.svg';
+import _USDai from '../icons/USDai.svg';
+import _wstUSR from '../icons/wstUSR.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -557,6 +559,7 @@ export default {
   'UNIV2USDCETH': _UNIV2USDCETH,
   'UNIV2WBTCDAI': _UNIV2WBTCDAI,
   'UNIV2WBTCETH': _UNIV2WBTCETH,
+  'USDai': _USDai,
   'USDA': _USDA,
   'USDbC': _USDbC,
   'USDC': _USDC,
@@ -577,6 +580,7 @@ export default {
   'wOUSD': _wOUSD,
   'wrsETH': _wrsETH,
   'wstETH': _wstETH,
+  'wstUSR': _wstUSR,
   'wsuperOETHb': _wsuperOETHb,
   'wUSDM': _wUSDM,
   'WXPL': _WXPL,

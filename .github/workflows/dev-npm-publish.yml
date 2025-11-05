@@ -31,9 +31,6 @@ jobs:
           echo "Setting version to $VERSION"
           npm version "$VERSION" --no-git-tag-version
 
-      - name: Build package
-        run: npm run build
-
       - name: Publish to npm
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}

@@ -214,6 +214,7 @@ import _RUNE from '../icons/RUNE.svg';
 import _SAI from '../icons/SAI.svg';
 import _sBOLD from '../icons/sBOLD.svg';
 import _sDAI from '../icons/sDAI.svg';
+import _sENA from '../icons/sENA.svg';
 import _sFRAX from '../icons/sFRAX.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _SHIB from '../icons/SHIB.svg';
@@ -516,6 +517,7 @@ export default {
   'SAI': _SAI,
   'sBOLD': _sBOLD,
   'sDAI': _sDAI,
+  'sENA': _sENA,
   'sFRAX': _sFRAX,
   'sfrxETH': _sfrxETH,
   'SHIB': _SHIB,

@@ -257,7 +257,6 @@ import _imUSD from '../icons/imUSD.svg';
 import _mETH from '../icons/mETH.svg';
 import _mTBILL from '../icons/mTBILL.svg';
 import _mUSD from '../icons/mUSD.svg';
-import _mmUSD from '../icons/mmUSD.svg';
 import _osETH from '../icons/osETH.svg';
 import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
@@ -559,7 +558,6 @@ export default {
   'mETH': _mETH,
   'mTBILL': _mTBILL,
   'mUSD': _mUSD,
-  'mmUSD': _mmUSD,
   'osETH': _osETH,
   'pufETH': _pufETH,
   'rETH': _rETH,

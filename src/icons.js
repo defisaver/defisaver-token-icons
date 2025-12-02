@@ -226,7 +226,7 @@ import _crvIB from '../icons/crvIB.svg';
 import _crvLINK from '../icons/crvLINK.svg';
 import _crvLUSD from '../icons/crvLUSD.svg';
 import _crvMIM from '../icons/crvMIM.svg';
-import _crvMUSD from '../icons/crvMUSD.svg';
+import _crvMStableUSD from '../icons/crvMStableUSD.svg';
 import _crvOBTC from '../icons/crvOBTC.svg';
 import _crvPAX from '../icons/crvPAX.svg';
 import _crvPBTC from '../icons/crvPBTC.svg';
@@ -253,11 +253,11 @@ import _eUSDe from '../icons/eUSDe.svg';
 import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
 import _iDAI from '../icons/iDAI.svg';
-import _imUSD from '../icons/imUSD.svg';
+import _imStableUSD from '../icons/imStableUSD.svg';
 import _mETH from '../icons/mETH.svg';
+import _mStableUSD from '../icons/mStableUSD.svg';
 import _mTBILL from '../icons/mTBILL.svg';
 import _mUSD from '../icons/mUSD.svg';
-import _mmUSD from '../icons/mmUSD.svg';
 import _osETH from '../icons/osETH.svg';
 import _pufETH from '../icons/pufETH.svg';
 import _rETH from '../icons/rETH.svg';
@@ -528,7 +528,7 @@ export default {
   'crvLINK': _crvLINK,
   'crvLUSD': _crvLUSD,
   'crvMIM': _crvMIM,
-  'crvMUSD': _crvMUSD,
+  'crvMStableUSD': _crvMStableUSD,
   'crvOBTC': _crvOBTC,
   'crvPAX': _crvPAX,
   'crvPBTC': _crvPBTC,
@@ -555,11 +555,11 @@ export default {
   'ezETH': _ezETH,
   'frxETH': _frxETH,
   'iDAI': _iDAI,
-  'imUSD': _imUSD,
+  'imStableUSD': _imStableUSD,
   'mETH': _mETH,
+  'mStableUSD': _mStableUSD,
   'mTBILL': _mTBILL,
   'mUSD': _mUSD,
-  'mmUSD': _mmUSD,
   'osETH': _osETH,
   'pufETH': _pufETH,
   'rETH': _rETH,

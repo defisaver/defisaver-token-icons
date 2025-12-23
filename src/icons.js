@@ -144,6 +144,7 @@ import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
 import _USDA from '../icons/USDA.svg';
 import _USDC from '../icons/USDC.svg';
 import _USDCe from '../icons/USDCe.svg';
+import _USDG from '../icons/USDG.svg';
 import _USDP from '../icons/USDP.svg';
 import _USDS from '../icons/USDS.svg';
 import _USDT from '../icons/USDT.svg';
@@ -448,6 +449,7 @@ export default {
   'USDA': _USDA,
   'USDC': _USDC,
   'USDC.e': _USDCe,
+  'USDG': _USDG,
   'USDP': _USDP,
   'USDS': _USDS,
   'USDT': _USDT,

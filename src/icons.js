@@ -296,6 +296,7 @@ import _yBOLD from '../icons/yBOLD.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _ysyBOLD from '../icons/ysyBOLD.svg';
 import _yveCRV from '../icons/yveCRV.svg';
+import _AERO from '../icons/AERO.svg';
 
 export default {
   '1INCH': _1INCH,
@@ -605,7 +606,8 @@ export default {
   'yBOLD': _yBOLD,
   'yCRV': _yCRV,
   'ysyBOLD': _ysyBOLD,
-  'yveCRV': _yveCRV
+  'yveCRV': _yveCRV,
+  'AERO': _AERO,
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

@@ -3,6 +3,7 @@
 import _1INCH from '../icons/1INCH.svg';
 import _3Crv from '../icons/3Crv.svg';
 import _AAVE from '../icons/AAVE.svg';
+import _AERO from '../icons/AERO.svg';
 import _ALCX from '../icons/ALCX.svg';
 import _ALETH from '../icons/ALETH.svg';
 import _ALUSD from '../icons/ALUSD.svg';
@@ -296,12 +297,12 @@ import _yBOLD from '../icons/yBOLD.svg';
 import _yCRV from '../icons/yCRV.svg';
 import _ysyBOLD from '../icons/ysyBOLD.svg';
 import _yveCRV from '../icons/yveCRV.svg';
-import _AERO from '../icons/AERO.svg';
 
 export default {
   '1INCH': _1INCH,
   '3Crv': _3Crv,
   'AAVE': _AAVE,
+  'AERO': _AERO,
   'ALCX': _ALCX,
   'ALETH': _ALETH,
   'ALUSD': _ALUSD,
@@ -396,6 +397,7 @@ export default {
   'PT USDe Jan': _PTUSDe,
   'PT USDe Feb': _PTUSDe,
   'PT USDe Apr': _PTUSDe,
+  'PT USDe May': _PTUSDe,
   'PT eUSDe Aug': _PTeUSDeMay,
   'PT eUSDe May': _PTeUSDeMay,
   'PT sUSDe July': _PTsUSDeJuly,
@@ -404,6 +406,7 @@ export default {
   'PT sUSDe Jan': _PTsUSDeJuly,
   'PT sUSDe Feb': _PTsUSDeJuly,
   'PT sUSDe Apr': _PTsUSDeJuly,
+  'PT sUSDe May': _PTsUSDeJuly,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,
@@ -606,8 +609,7 @@ export default {
   'yBOLD': _yBOLD,
   'yCRV': _yCRV,
   'ysyBOLD': _ysyBOLD,
-  'yveCRV': _yveCRV,
-  'AERO': _AERO,
+  'yveCRV': _yveCRV
 };
 
 /** AUTOMATICALLY GENERATED FILE **/

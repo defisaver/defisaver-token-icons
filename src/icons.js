@@ -95,6 +95,7 @@ import _POOL from '../icons/POOL.svg';
 import _PTUSDe from '../icons/PTUSDe.svg';
 import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
 import _PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
+import _PTsrUSDe from '../icons/PTsrUSDe.svg';
 import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
@@ -274,6 +275,7 @@ import _sFRAX from '../icons/sFRAX.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
+import _srUSDe from '../icons/srUSDe.svg';
 import _stETH from '../icons/stETH.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
@@ -407,6 +409,7 @@ export default {
   'PT sUSDe Feb': _PTsUSDeJuly,
   'PT sUSDe Apr': _PTsUSDeJuly,
   'PT sUSDe May': _PTsUSDeJuly,
+  'PT srUSDe Apr': _PTsrUSDe,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,
@@ -587,6 +590,7 @@ export default {
   'sUSDS': _sUSDS,
   'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,
+  'srUSDe': _srUSDe,
   'stETH': _stETH,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,

@@ -255,6 +255,7 @@ import _eBTC from '../icons/eBTC.svg';
 import _eUSDe from '../icons/eUSDe.svg';
 import _ezETH from '../icons/ezETH.svg';
 import _frxETH from '../icons/frxETH.svg';
+import _frxUSD from '../icons/frxUSD.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imStableUSD from '../icons/imStableUSD.svg';
 import _mETH from '../icons/mETH.svg';
@@ -570,6 +571,7 @@ export default {
   'eUSDe': _eUSDe,
   'ezETH': _ezETH,
   'frxETH': _frxETH,
+  'frxUSD': _frxUSD,
   'iDAI': _iDAI,
   'imStableUSD': _imStableUSD,
   'mETH': _mETH,

@@ -401,6 +401,7 @@ export default {
   'PT USDe Feb': _PTUSDe,
   'PT USDe Apr': _PTUSDe,
   'PT USDe May': _PTUSDe,
+  'PT USDe June': _PTUSDe,
   'PT eUSDe Aug': _PTeUSDeMay,
   'PT eUSDe May': _PTeUSDeMay,
   'PT sUSDe July': _PTsUSDeJuly,

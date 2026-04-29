@@ -96,6 +96,7 @@ import _PTUSDe from '../icons/PTUSDe.svg';
 import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
 import _PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
 import _PTsrUSDe from '../icons/PTsrUSDe.svg';
+import _PTUSDG from '../icons/PTUSDG.svg';
 import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
@@ -414,6 +415,7 @@ export default {
   'PT sUSDe June': _PTsUSDeJuly,
   'PT srUSDe Apr': _PTsrUSDe,
   'PT srUSDe Jun': _PTsrUSDe,
+  'PT USDG May': _PTUSDG,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,

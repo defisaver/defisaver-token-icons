@@ -274,6 +274,7 @@ import _sBOLD from '../icons/sBOLD.svg';
 import _sDAI from '../icons/sDAI.svg';
 import _sENA from '../icons/sENA.svg';
 import _sFRAX from '../icons/sFRAX.svg';
+import _sGHO from '../icons/sGHO.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
@@ -594,6 +595,7 @@ export default {
   'sDAI': _sDAI,
   'sENA': _sENA,
   'sFRAX': _sFRAX,
+  'sGHO': _sGHO,
   'sUSDS': _sUSDS,
   'sUSDe': _sUSDe,
   'sfrxETH': _sfrxETH,

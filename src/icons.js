@@ -92,11 +92,12 @@ import _PENDLE from '../icons/PENDLE.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
+import _PTUSDG from '../icons/PTUSDG.svg';
 import _PTUSDe from '../icons/PTUSDe.svg';
 import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
+import _PTsUSDS from '../icons/PTsUSDS.svg';
 import _PTsUSDeJuly from '../icons/PTsUSDeJuly.svg';
 import _PTsrUSDe from '../icons/PTsrUSDe.svg';
-import _PTUSDG from '../icons/PTUSDG.svg';
 import _PYUSD from '../icons/PYUSD.svg';
 import _RAI from '../icons/RAI.svg';
 import _RARI from '../icons/RARI.svg';
@@ -396,6 +397,7 @@ export default {
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
+  'PTUSDG': _PTUSDG,
   'PT USDe July': _PTUSDe,
   'PT USDe Sep': _PTUSDe,
   'PT USDe Nov': _PTUSDe,
@@ -406,6 +408,7 @@ export default {
   'PT USDe June': _PTUSDe,
   'PT eUSDe Aug': _PTeUSDeMay,
   'PT eUSDe May': _PTeUSDeMay,
+  'PT sUSDS': _PTsUSDS,
   'PT sUSDe July': _PTsUSDeJuly,
   'PT sUSDe Sep': _PTsUSDeJuly,
   'PT sUSDe Nov': _PTsUSDeJuly,

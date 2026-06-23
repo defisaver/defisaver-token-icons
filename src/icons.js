@@ -422,6 +422,7 @@ export default {
   'PT srUSDe Jun': _PTsrUSDe,
   'PT srUSDe Oct': _PTsrUSDe,
   'PT USDG May': _PTUSDG,
+  'PT USDG Sep': _PTUSDG,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,

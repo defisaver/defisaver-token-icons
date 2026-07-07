@@ -92,6 +92,7 @@ import _PENDLE from '../icons/PENDLE.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
+import _PRIME from '../icons/PRIME.svg';
 import _PTUSDG from '../icons/PTUSDG.svg';
 import _PTUSDe from '../icons/PTUSDe.svg';
 import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
@@ -145,6 +146,7 @@ import _UNIV2UNIETH from '../icons/UNIV2UNIETH.svg';
 import _UNIV2USDCETH from '../icons/UNIV2USDCETH.svg';
 import _UNIV2WBTCDAI from '../icons/UNIV2WBTCDAI.svg';
 import _UNIV2WBTCETH from '../icons/UNIV2WBTCETH.svg';
+import _USD3 from '../icons/USD3.svg';
 import _USDA from '../icons/USDA.svg';
 import _USDC from '../icons/USDC.svg';
 import _USDCe from '../icons/USDCe.svg';
@@ -212,6 +214,7 @@ import _cYFI from '../icons/cYFI.svg';
 import _cZRX from '../icons/cZRX.svg';
 import _cbBTC from '../icons/cbBTC.svg';
 import _cbETH from '../icons/cbETH.svg';
+import _cbXRP from '../icons/cbXRP.svg';
 import _cbeCRV from '../icons/cbeCRV.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
 import _crvAAVE from '../icons/crvAAVE.svg';
@@ -260,6 +263,7 @@ import _frxETH from '../icons/frxETH.svg';
 import _frxUSD from '../icons/frxUSD.svg';
 import _iDAI from '../icons/iDAI.svg';
 import _imStableUSD from '../icons/imStableUSD.svg';
+import _kBTC from '../icons/kBTC.svg';
 import _mETH from '../icons/mETH.svg';
 import _mStableUSD from '../icons/mStableUSD.svg';
 import _mTBILL from '../icons/mTBILL.svg';
@@ -281,6 +285,7 @@ import _sUSDe from '../icons/sUSDe.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _srUSDe from '../icons/srUSDe.svg';
 import _stETH from '../icons/stETH.svg';
+import _stUSDS from '../icons/stUSDS.svg';
 import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
 import _stkGHO from '../icons/stkGHO.svg';
@@ -397,7 +402,10 @@ export default {
   'PERP': _PERP,
   'PICKLE': _PICKLE,
   'POOL': _POOL,
+  'PRIME': _PRIME,
   'PTUSDG': _PTUSDG,
+  'PT USDG May': _PTUSDG,
+  'PT USDG Sep': _PTUSDG,
   'PT USDe July': _PTUSDe,
   'PT USDe Sep': _PTUSDe,
   'PT USDe Nov': _PTUSDe,
@@ -416,13 +424,11 @@ export default {
   'PT sUSDe Feb': _PTsUSDeJuly,
   'PT sUSDe Apr': _PTsUSDeJuly,
   'PT sUSDe May': _PTsUSDeJuly,
-  'PT sUSDe June': _PTsUSDeJuly,
   'PT sUSDe Oct': _PTsUSDeJuly,
+  'PT sUSDe June': _PTsUSDeJuly,
   'PT srUSDe Apr': _PTsrUSDe,
   'PT srUSDe Jun': _PTsrUSDe,
   'PT srUSDe Oct': _PTsrUSDe,
-  'PT USDG May': _PTUSDG,
-  'PT USDG Sep': _PTUSDG,
   'PYUSD': _PYUSD,
   'RAI': _RAI,
   'RARI': _RARI,
@@ -470,6 +476,7 @@ export default {
   'UNIV2USDCETH': _UNIV2USDCETH,
   'UNIV2WBTCDAI': _UNIV2WBTCDAI,
   'UNIV2WBTCETH': _UNIV2WBTCETH,
+  'USD3': _USD3,
   'USDA': _USDA,
   'USDC': _USDC,
   'USDC.e': _USDCe,
@@ -538,6 +545,7 @@ export default {
   'cZRX': _cZRX,
   'cbBTC': _cbBTC,
   'cbETH': _cbETH,
+  'cbXRP': _cbXRP,
   'cbeCRV': _cbeCRV,
   'crv3crypto': _crv3crypto,
   'crvAAVE': _crvAAVE,
@@ -586,6 +594,7 @@ export default {
   'frxUSD': _frxUSD,
   'iDAI': _iDAI,
   'imStableUSD': _imStableUSD,
+  'kBTC': _kBTC,
   'mETH': _mETH,
   'mStableUSD': _mStableUSD,
   'mTBILL': _mTBILL,
@@ -607,6 +616,7 @@ export default {
   'sfrxETH': _sfrxETH,
   'srUSDe': _srUSDe,
   'stETH': _stETH,
+  'stUSDS': _stUSDS,
   'steCRV': _steCRV,
   'stkAAVE': _stkAAVE,
   'stkGHO': _stkGHO,

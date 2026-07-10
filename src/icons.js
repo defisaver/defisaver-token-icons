@@ -54,6 +54,7 @@ import _GEL from '../icons/GEL.svg';
 import _GHO from '../icons/GHO.svg';
 import _GMX from '../icons/GMX.svg';
 import _GNO from '../icons/GNO.svg';
+import _GROVE from '../icons/GROVE.svg';
 import _GRT from '../icons/GRT.svg';
 import _GTC from '../icons/GTC.svg';
 import _GUNIV3DAIUSDC1 from '../icons/GUNIV3DAIUSDC1.svg';
@@ -364,6 +365,7 @@ export default {
   'GHO': _GHO,
   'GMX': _GMX,
   'GNO': _GNO,
+  'GROVE': _GROVE,
   'GRT': _GRT,
   'GTC': _GTC,
   'GUNIV3DAIUSDC1': _GUNIV3DAIUSDC1,

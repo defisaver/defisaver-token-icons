@@ -21,6 +21,7 @@ import _BOLD from '../icons/BOLD.svg';
 import _BOLDLegacy from '../icons/BOLDLegacy.svg';
 import _BTC2x_FLI from '../icons/BTC2x_FLI.svg';
 import _BUSD from '../icons/BUSD.svg';
+import _COW from '../icons/COW.svg';
 import _COMP from '../icons/COMP.svg';
 import _COVER from '../icons/COVER.svg';
 import _CREAM from '../icons/CREAM.svg';
@@ -283,6 +284,7 @@ import _sFRAX from '../icons/sFRAX.svg';
 import _sGHO from '../icons/sGHO.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
+import _SAFE from '../icons/SAFE.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _srUSDe from '../icons/srUSDe.svg';
 import _stETH from '../icons/stETH.svg';
@@ -333,6 +335,7 @@ export default {
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,
+  'COW': _COW,
   'COVER': _COVER,
   'CREAM': _CREAM,
   'CRV': _CRV,
@@ -624,6 +627,7 @@ export default {
   'stkGHO': _stkGHO,
   'syrupUSDC': _syrupUSDC,
   'syrupUSDT': _syrupUSDT,
+  'SAFE': _SAFE,
   'tBTC': _tBTC,
   'tETH': _tETH,
   'wM': _wM,

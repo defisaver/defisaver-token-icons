@@ -627,6 +627,7 @@ export default {
   'stkGHO': _stkGHO,
   'syrupUSDC': _syrupUSDC,
   'syrupUSDT': _syrupUSDT,
+  'syrupUSDG': _USDG,
   'SAFE': _SAFE,
   'tBTC': _tBTC,
   'tETH': _tETH,

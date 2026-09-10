@@ -90,6 +90,7 @@ import _OHM from '../icons/OHM.svg';
 import _OMG from '../icons/OMG.svg';
 import _OP from '../icons/OP.svg';
 import _OUSD from '../icons/OUSD.svg';
+import _PAXG from '../icons/PAXG.svg';
 import _PENDLE from '../icons/PENDLE.svg';
 import _PERP from '../icons/PERP.svg';
 import _PICKLE from '../icons/PICKLE.svg';
@@ -403,6 +404,7 @@ export default {
   'OMG': _OMG,
   'OP': _OP,
   'OUSD': _OUSD,
+  'PAXG': _PAXG,
   'PENDLE': _PENDLE,
   'PERP': _PERP,
   'PICKLE': _PICKLE,

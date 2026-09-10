@@ -1,0 +1,12 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 96C0 42.9807 42.9807 0 96 0C149.019 0 192 42.9807 192 96C192 149.019 149.019 192 96 192C42.9807 192 0 149.019 0 96Z" fill="url(#paint0_linear_paxg)"/>
+    <path d="M82 69H118L124 91H76L82 69Z" fill="#F9FAFB"/>
+    <path d="M52 101H88L94 123H46L52 101Z" fill="#F9FAFB"/>
+    <path d="M104 101H140L146 123H98L104 101Z" fill="#F9FAFB"/>
+    <defs>
+        <linearGradient id="paint0_linear_paxg" x1="96" y1="0" x2="96" y2="192" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E5C170"/>
+            <stop offset="1" stop-color="#C9A227"/>
+        </linearGradient>
+    </defs>
+</svg>

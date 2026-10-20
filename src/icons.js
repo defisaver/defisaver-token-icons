@@ -21,9 +21,9 @@ import _BOLD from '../icons/BOLD.svg';
 import _BOLDLegacy from '../icons/BOLDLegacy.svg';
 import _BTC2x_FLI from '../icons/BTC2x_FLI.svg';
 import _BUSD from '../icons/BUSD.svg';
-import _COW from '../icons/COW.svg';
 import _COMP from '../icons/COMP.svg';
 import _COVER from '../icons/COVER.svg';
+import _COW from '../icons/COW.svg';
 import _CREAM from '../icons/CREAM.svg';
 import _CRV from '../icons/CRV.svg';
 import _CTX from '../icons/CTX.svg';
@@ -32,6 +32,7 @@ import _DAI from '../icons/DAI.svg';
 import _DATA from '../icons/DATA.svg';
 import _DIGG from '../icons/DIGG.svg';
 import _DPI from '../icons/DPI.svg';
+import _DRV from '../icons/DRV.svg';
 import _DYDX from '../icons/DYDX.svg';
 import _ENA from '../icons/ENA.svg';
 import _ENJ from '../icons/ENJ.svg';
@@ -72,6 +73,7 @@ import _LDO from '../icons/LDO.svg';
 import _LEND from '../icons/LEND.svg';
 import _LINEA from '../icons/LINEA.svg';
 import _LINK from '../icons/LINK.svg';
+import _LIT from '../icons/LIT.svg';
 import _LQTY from '../icons/LQTY.svg';
 import _LRC from '../icons/LRC.svg';
 import _LUSD from '../icons/LUSD.svg';
@@ -117,6 +119,7 @@ import _ROBOT from '../icons/ROBOT.svg';
 import _ROOK from '../icons/ROOK.svg';
 import _RPL from '../icons/RPL.svg';
 import _RUNE from '../icons/RUNE.svg';
+import _SAFE from '../icons/SAFE.svg';
 import _SAI from '../icons/SAI.svg';
 import _SHIB from '../icons/SHIB.svg';
 import _SKY from '../icons/SKY.svg';
@@ -285,7 +288,6 @@ import _sFRAX from '../icons/sFRAX.svg';
 import _sGHO from '../icons/sGHO.svg';
 import _sUSDS from '../icons/sUSDS.svg';
 import _sUSDe from '../icons/sUSDe.svg';
-import _SAFE from '../icons/SAFE.svg';
 import _sfrxETH from '../icons/sfrxETH.svg';
 import _srUSDe from '../icons/srUSDe.svg';
 import _stETH from '../icons/stETH.svg';
@@ -336,8 +338,8 @@ export default {
   'BTC2x-FLI': _BTC2x_FLI,
   'BUSD': _BUSD,
   'COMP': _COMP,
-  'COW': _COW,
   'COVER': _COVER,
+  'COW': _COW,
   'CREAM': _CREAM,
   'CRV': _CRV,
   'CTX': _CTX,
@@ -346,6 +348,7 @@ export default {
   'DATA': _DATA,
   'DIGG': _DIGG,
   'DPI': _DPI,
+  'DRV': _DRV,
   'DYDX': _DYDX,
   'ENA': _ENA,
   'ENJ': _ENJ,
@@ -386,6 +389,7 @@ export default {
   'LEND': _LEND,
   'LINEA': _LINEA,
   'LINK': _LINK,
+  'LIT': _LIT,
   'LQTY': _LQTY,
   'LRC': _LRC,
   'LUSD': _LUSD,
@@ -451,6 +455,7 @@ export default {
   'ROOK': _ROOK,
   'RPL': _RPL,
   'RUNE': _RUNE,
+  'SAFE': _SAFE,
   'SAI': _SAI,
   'SHIB': _SHIB,
   'SKY': _SKY,
@@ -629,8 +634,6 @@ export default {
   'stkGHO': _stkGHO,
   'syrupUSDC': _syrupUSDC,
   'syrupUSDT': _syrupUSDT,
-  'syrupUSDG': _USDG,
-  'SAFE': _SAFE,
   'tBTC': _tBTC,
   'tETH': _tETH,
   'wM': _wM,

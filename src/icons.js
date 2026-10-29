@@ -220,6 +220,7 @@ import _cYFI from '../icons/cYFI.svg';
 import _cZRX from '../icons/cZRX.svg';
 import _cbBTC from '../icons/cbBTC.svg';
 import _cbETH from '../icons/cbETH.svg';
+import _cbHYPE from '../icons/cbHYPE.svg';
 import _cbXRP from '../icons/cbXRP.svg';
 import _cbeCRV from '../icons/cbeCRV.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
@@ -557,6 +558,7 @@ export default {
   'cZRX': _cZRX,
   'cbBTC': _cbBTC,
   'cbETH': _cbETH,
+  'cbHYPE': _cbHYPE,
   'cbXRP': _cbXRP,
   'cbeCRV': _cbeCRV,
   'crv3crypto': _crv3crypto,

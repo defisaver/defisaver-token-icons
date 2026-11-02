@@ -297,6 +297,7 @@ import _steCRV from '../icons/steCRV.svg';
 import _stkAAVE from '../icons/stkAAVE.svg';
 import _stkGHO from '../icons/stkGHO.svg';
 import _syrupUSDC from '../icons/syrupUSDC.svg';
+import _syrupUSDG from '../icons/syrupUSDG.svg';
 import _syrupUSDT from '../icons/syrupUSDT.svg';
 import _tBTC from '../icons/tBTC.svg';
 import _tETH from '../icons/tETH.svg';
@@ -635,6 +636,7 @@ export default {
   'stkAAVE': _stkAAVE,
   'stkGHO': _stkGHO,
   'syrupUSDC': _syrupUSDC,
+  'syrupUSDG': _syrupUSDG,
   'syrupUSDT': _syrupUSDT,
   'tBTC': _tBTC,
   'tETH': _tETH,

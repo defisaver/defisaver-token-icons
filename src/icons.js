@@ -41,6 +41,7 @@ import _ETH from '../icons/ETH.svg';
 import _ETH2x_FLI from '../icons/ETH2x_FLI.svg';
 import _ETHx from '../icons/ETHx.svg';
 import _EURC from '../icons/EURC.svg';
+import _EURCV from '../icons/EURCV.svg';
 import _EURS from '../icons/EURS.svg';
 import _FARM from '../icons/FARM.svg';
 import _FBTC from '../icons/FBTC.svg';
@@ -359,6 +360,7 @@ export default {
   'ETH2x-FLI': _ETH2x_FLI,
   'ETHx': _ETHx,
   'EURC': _EURC,
+  'EURCV': _EURCV,
   'EURS': _EURS,
   'FARM': _FARM,
   'FBTC': _FBTC,

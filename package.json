@@ -7,6 +7,7 @@
     "version-bump": "git commit -am \"Version bump to $(npm version patch --no-git-tag-version | cut -c 2-)\"",
     "generate": "node scripts/generateIconsIndex.js"
   },
+  "repository": "https://github.com/defisaver/defisaver-token-icons",
   "keywords": [],
   "author": "",
   "license": "ISC"

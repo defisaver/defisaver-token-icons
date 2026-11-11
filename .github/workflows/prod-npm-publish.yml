@@ -5,6 +5,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   publish:
@@ -31,8 +32,6 @@ jobs:
         run: npm version patch -m "Version bump to %s"
 
       - name: Push version commit and tags
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: git push origin HEAD:${{ github.ref_name }}
 
       - name: Install dependencies

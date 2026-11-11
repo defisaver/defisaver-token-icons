@@ -224,6 +224,7 @@ import _cbETH from '../icons/cbETH.svg';
 import _cbHYPE from '../icons/cbHYPE.svg';
 import _cbXRP from '../icons/cbXRP.svg';
 import _cbeCRV from '../icons/cbeCRV.svg';
+import _cirBTC from '../icons/cirBTC.svg';
 import _crv3crypto from '../icons/crv3crypto.svg';
 import _crvAAVE from '../icons/crvAAVE.svg';
 import _crvAETHc from '../icons/crvAETHc.svg';
@@ -564,6 +565,7 @@ export default {
   'cbHYPE': _cbHYPE,
   'cbXRP': _cbXRP,
   'cbeCRV': _cbeCRV,
+  'cirBTC': _cirBTC,
   'crv3crypto': _crv3crypto,
   'crvAAVE': _crvAAVE,
   'crvAETHc': _crvAETHc,

@@ -100,6 +100,7 @@ import _PICKLE from '../icons/PICKLE.svg';
 import _POOL from '../icons/POOL.svg';
 import _PRIME from '../icons/PRIME.svg';
 import _PTUSDG from '../icons/PTUSDG.svg';
+import _PTUSDat from '../icons/PTUSDat.svg';
 import _PTUSDe from '../icons/PTUSDe.svg';
 import _PTeUSDeMay from '../icons/PTeUSDeMay.svg';
 import _PTsUSDS from '../icons/PTsUSDS.svg';
@@ -162,6 +163,7 @@ import _USDP from '../icons/USDP.svg';
 import _USDS from '../icons/USDS.svg';
 import _USDT from '../icons/USDT.svg';
 import _USDai from '../icons/USDai.svg';
+import _USDat from '../icons/USDat.svg';
 import _USDbC from '../icons/USDbC.svg';
 import _USDe from '../icons/USDe.svg';
 import _USDtb from '../icons/USDtb.svg';
@@ -422,6 +424,7 @@ export default {
   'PTUSDG': _PTUSDG,
   'PT USDG May': _PTUSDG,
   'PT USDG Sep': _PTUSDG,
+  'PT USDat Jan': _PTUSDat,
   'PT USDe July': _PTUSDe,
   'PT USDe Sep': _PTUSDe,
   'PT USDe Nov': _PTUSDe,
@@ -503,6 +506,7 @@ export default {
   'USDT': _USDT,
   'USDT0': _USDT,
   'USDai': _USDai,
+  'USDat': _USDat,
   'USDbC': _USDbC,
   'USDe': _USDe,
   'USDtb': _USDtb,
